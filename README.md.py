@@ -1,3 +1,3 @@
 # Проект BranlacMS
 
-первый проект на Django
+первый проект на Djangohh
